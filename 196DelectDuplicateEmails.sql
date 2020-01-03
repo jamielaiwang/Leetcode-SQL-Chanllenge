@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+#The basic syntax of the DELETE query with the WHERE clause is as follows
 #DELETE FROM table_name
 #WHERE [condition];
 #Notice the WHERE clause in the DELETE statement. 
